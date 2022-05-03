@@ -1,8 +1,8 @@
 {
     "openapi": "3.0.0",
     "info": {
-        "title": "",
-        "description": "",
+        "title": "Desafio 02 - API",
+        "description": "Documentando com Swagger",
         "version": "1.0.0",
         "contact": {
             "email": "contato@maicondelbel.com"
